@@ -1,10 +1,21 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: University of the West of England
+  dates: 2013 - 2014
+  qualification: MSc Embedded Systems & Wireless Networks
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Sharing it's campus with Hewlett Packard, Bristol Robotics Lab, and the UK Ministry of Defence. UWE is a public research university centered around industry. It's reputation and location makes it a hotspot for industry networking and events in the English West Country.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    During my time at UWE, I learnt advanced skills in <mark>Model Based Design</mark> and <mark>DSP</mark>. These skills I then immediately applied to my Masters Thesis Project which went on to be featured in [Hackaday](https://hackaday.com/2014/07/12/independent-wheel-drive-rc-car/) and [25,000 views](https://youtu.be/ET1HEyqEQJQ) on YouTube.
+    
+    I also had the opportunity to arrange field trips with coursemates, meeting companies and teams such as the crew behind the (Bloodhoud Land Speed Record Vehicle)[https://en.wikipedia.org/wiki/Bloodhound_LSR].
+    
+- layout: left
+  name: University of Bristol
+  dates: 2019 - 2013
+  qualification: BEng Electronic & Communications Engineering
+  quote: >
+    Bristol is a red brick research university having received its royal charter in 1909, although it can trace its roots to a Merchant Venturers' school founded in 1595. The university has been associated with 13 Nobel laureates throughout its history, including Paul Dirac, and Sir Nevill Francis Mott who where both pivotal to the field of engineering.
+  description: | # this will include new lines to allow paragraphs
+    UoB taught me essential skills in teamwork and leadership. It also taught me the appreciation to explore science and persue knowledge which without, I would not have found myself where I am today. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    During my time here, I also participated in the Mountaineering club, raced for the 125cc British Karting Championship and DJ'd at various Heavy Metal bars with the Dean of Chemistery, who was about as wild as you can imagine.
