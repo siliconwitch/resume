@@ -9,13 +9,13 @@ email: raj@siliconwitchery.com
 website: https://github.com/siliconwitch
 
 # Social links
-twitter_username: siliconwitch
 github_username:  siliconwitch
+linkedin_username: rajesh-nakarja-embedded
+twitter_username: siliconwitch
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: rajesh-nakarja-embedded
 # pinterest_username: jekyll
 # youtube_username: jekyll
 
@@ -23,9 +23,9 @@ linkedin_username: rajesh-nakarja-embedded
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Raj, and I'm Chief Engineer of Wearable Hardware at Silicon Witchery Sweden. As well as executive management, I have worked for companies big and small, designing robotics, automotive software and carrying out RF compliance.
+  Hi, my name is Raj, and I'm Chief Engineer of Wearable Hardware at Silicon Witchery. I have previously worked for companies big and small, doing a variety of engineeing task such as designing robotics, automotive software and carrying out RF compliance.
 
-  I am most skilled in: <mark>Hardware</mark>, <mark>Firmware</mark> and <mark>Wireless</mark>
+  I am most skilled in: <mark>Hardware</mark> and <mark>Firmware</mark>.
 
 # Projects Section
 # projects_title: Projects
@@ -40,10 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in hardware engineering, some of my other interests and hobbies are:
-   - Athletic Pole Dance
-   - Car/Bike Restoration
+   - Classic Car & Bike Restoration
    - Renaissance Fairs
    - Space & Science
+   - [Athletic Pole Dance](https://www.instagram.com/siliconwitch.pole/)
 
 # Footer
 footer_show_references: true
