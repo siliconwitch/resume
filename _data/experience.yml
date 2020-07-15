@@ -1,14 +1,4 @@
 - layout: left
-  company: Silicon Witchery AB
-  link: https://siliconwitchery.com/
-  job_title: Chief Engineer and Director
-  dates: 2019 - Present
-  quote: >
-    Wearable computers for clothing, prostetics and brain machine interfaces.
-  description: | # this will include new lines to allow paragraphs
-    TODO
-
-- layout: left
   company: Turnpike Group Sweden
   link: https://turnpikegroup.com/
   job_title: Lead Wearables Engineer
@@ -16,7 +6,7 @@
   quote: >
     Empowering front line workers.
   description: | # this will include new lines to allow paragraphs
-    TODO
+    Handled product ownership and lead development of a Bluetooth smartwatch with a feature rich cloud ecosystem. This was a startup so there was a little bit of everything from meeting customers and developing their UX, to visiting factories in China and sourcing components. This role taught me the lessons to operate a business from the bottom, all the way to the top.
 
 - layout: left
   company: Silicon Labs Inc
