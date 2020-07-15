@@ -5,9 +5,9 @@
   quote: >
     Sharing it's campus with Hewlett Packard, Bristol Robotics Lab, and the UK Ministry of Defence. UWE is a public research university centered around industry. It's reputation and location makes it a hot spot for industry events in the English West Country.
   description: | # this will include new lines to allow paragraphs
-    During my time at UWE, I learnt advanced skills in <mark>Model Based Design</mark> and <mark>DSP</mark> algorithms. These skills I then immediately applied to my Masters Thesis Project which then went on to be featured in [Hackaday](https://hackaday.com/2014/07/12/independent-wheel-drive-rc-car/) magazine, and gain [25,000 views](https://youtu.be/ET1HEyqEQJQ) on YouTube.
+    During my time at UWE, I learnt advanced skills in <mark>Model Based Design</mark> and <mark>DSP</mark> algorithms. These skills I then immediately applied to my Masters Thesis Project which then went on to be featured in <a href="https://hackaday.com/2014/07/12/independent-wheel-drive-rc-car/" target="_blank">Hackaday</a> magazine, and gain <a href="https://youtu.be/ET1HEyqEQJQ" target="_blank">25,000 views</a> on YouTube.
     
-    I also had the opportunity to arrange field trips with course mates, to meet engineering teams behind such projects as the [Bloodhound Land Speed Record Vehicle](https://en.wikipedia.org/wiki/Bloodhound_LSR).
+    I also had the opportunity to arrange field trips with course mates, to meet engineering teams behind such projects as the <a href="https://en.wikipedia.org/wiki/Bloodhound_LSR" target="_blank">Bloodhound Land Speed Record Vehicle</a>.
     
 - layout: left
   name: University of Bristol

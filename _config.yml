@@ -42,11 +42,11 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in electronics, some of my other hobbies are:
    - Learning, as well as teaching about Space & Science
    - Classic car & bike restoration
-   - [Renaissance fairs](https://en.wikipedia.org/wiki/Renaissance_fair)
-   - [Athletic pole dance](https://www.instagram.com/siliconwitch.pole/) 💃
+   - <a href="https://en.wikipedia.org/wiki/Renaissance_fair" target="_blank">Renaissance fairs</a>
+   - <a href="https://www.instagram.com/siliconwitch.pole/" target="_blank">Athletic pole dancing</a>
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme

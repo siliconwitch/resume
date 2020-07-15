@@ -2,6 +2,6 @@
   name: Silicon Witchery
   link: https://siliconwitchery.com/
   quote: >
-    Wearable computers for <mark>Clothing</mark>, <mark>Prosthetics</mark> and <mark>Brain-Machine Interfaces</mark>.
+    Wearable computers for <strong>Clothing</strong>, <strong>Prosthetics</strong> and <strong>Brain-Machine Interfaces</strong>.
   description: | # this will include new lines to allow paragraphs
     I started this project to easily prototype wearable projects without having to of redesign hardware or rewrite firmware. It has since grown into a company and so have the applications. We are slowly branching out from <mark>Fashion</mark> to <mark>Medical</mark>, <mark>Rescue</mark> and <mark>Space</mark> applications, where our devices look like they'll be making a huge impact for a variety innovative products.
