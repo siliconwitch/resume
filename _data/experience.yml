@@ -4,9 +4,9 @@
   job_title: Lead Wearables Engineer
   dates: 2016 - 2020
   quote: >
-    Empowering front line workers.
+    A startup designing smartwatches for front line workers.
   description: | # this will include new lines to allow paragraphs
-    Handled product ownership and lead development of a Bluetooth smartwatch with a feature rich cloud ecosystem. This was a startup so there was a little bit of everything from meeting customers and developing their UX, to visiting factories in China and sourcing components. This role taught me the lessons to operate a business from the bottom, all the way to the top.
+    At Turnpike I handled product ownership and lead development of a Bluetooth smartwatch with a feature rich cloud ecosystem. As this was a startup, there was a little bit of everything from meeting customers and developing their UX, to visiting factories in China and sourcing components. This role taught me the lessons to operate a business from the basics, all the way to scaling.
 
 - layout: left
   company: Silicon Labs Inc
@@ -14,9 +14,9 @@
   job_title: Wireless Applications Engineer
   dates: 2014 - 2016
   quote: >
-    A Fabless global technology company that designs and manufactures semiconductors.
+    A global fabless technology company that designs and manufactures semiconductors.
   description: | # this will include new lines to allow paragraphs
-    Developed Bluetooth and ZigBee Smart Home products for large corporate customers. Experienced what it was like to work with and support design teams across the globe in this customer facing role where strict deadlines and budgets mattered.
+    Here I developed Bluetooth and Zigbee smart Home products for large corporate customers. I experienced what it was like to work with large design teams across the globe in this customer facing position. I also had the opportunity to get significant training for global type certification in electrical safety, emissions and RF compliance.
 
 - layout: left
   company: Bristol Robotics Lab
@@ -26,4 +26,4 @@
   quote: >
     The largest academic centre for multi-disciplinary robotics research in the UK.
   description: | # this will include new lines to allow paragraphs
-    Designed modular position sensors for robotics which needed to work in strong electromagnetic fields and in the absense of gravity. In other words, it had to work in <mark>Space</mark>. Safety and reliability was the focus on this project.
+    At BRL, I engineered modular position sensors for robotics which needed to work in strong electromagnetic fields, as well as in the absence of gravity. In other words, it had to work in <mark>Space</mark>. Safety and reliability were the focus points on this project.
