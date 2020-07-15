@@ -6,7 +6,7 @@
   quote: >
     A startup designing smartwatches for front line workers.
   description: | # this will include new lines to allow paragraphs
-    At Turnpike I handled product ownership and lead development of a Bluetooth smartwatch with a feature rich cloud ecosystem. As this was a startup, there was a little bit of everything from meeting customers and developing their UX, to visiting factories in China and sourcing components. This role taught me the lessons to operate a business from the basics, all the way to scaling.
+    At Turnpike I handled product ownership and lead development of a Bluetooth smartwatch with a feature rich cloud ecosystem. As this was a startup, there was a little bit of everything from meeting customers and developing their <mark>UX</mark>, to visiting factories in China and <mark>Sourcing</mark> components. This role taught me the lessons to operate a business from the basics, all the way to scale.
 
 - layout: left
   company: Silicon Labs Inc
@@ -16,7 +16,7 @@
   quote: >
     A global fabless technology company that designs and manufactures semiconductors.
   description: | # this will include new lines to allow paragraphs
-    Here I developed Bluetooth and Zigbee smart Home products for large corporate customers. I experienced what it was like to work with large design teams across the globe in this customer facing position. I also had the opportunity to get significant training for global type certification in electrical safety, emissions and RF compliance.
+    Here I developed Bluetooth and Zigbee smart Home products for large corporate customers. I experienced what it was like to work with large design teams across the globe in this customer facing position. I also had the opportunity to get significant training for global type certification <mark>Emissions</mark> and <mark>RF Compliance</mark>.
 
 - layout: left
   company: Bristol Robotics Lab
@@ -26,4 +26,4 @@
   quote: >
     The largest academic centre for multi-disciplinary robotics research in the UK.
   description: | # this will include new lines to allow paragraphs
-    At BRL, I engineered modular position sensors for robotics which needed to work in strong electromagnetic fields, as well as in the absence of gravity. In other words, it had to work in <mark>Space</mark>. Safety and reliability were the focus points on this project.
+    At BRL, I engineered modular position sensors for robotics which needed to work in strong electromagnetic fields, as well as in the absence of gravity. In other words, it had to work in space. <mark>Safety</mark> and <mark>Reliability</mark> were the focus points on this project.
