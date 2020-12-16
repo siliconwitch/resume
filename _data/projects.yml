@@ -2,6 +2,10 @@
   name: Silicon Witchery
   link: https://www.siliconwitchery.com/
   quote: >
-    Wearable computers for <strong>Clothing</strong>, <strong>Prosthetics</strong> and <strong>Brain-Machine Interfaces</strong>.
+    Building the smallest wearable computers for <strong>clothing</strong>, and <strong>implants</strong>.
   description: | # this will include new lines to allow paragraphs
-    I started this project to easily prototype wearable projects without having to of redesign hardware or rewrite firmware. It has since grown into a company and so have the applications. We are slowly branching out from <mark>Fashion</mark> to <mark>Medical</mark>, <mark>Rescue</mark> and <mark>Space</mark> applications, where our devices look like they'll be making a huge impact for a variety innovative products.
+    Wanting to quickly prototype for different customers, I created the S1 module as an easy drop-in that contained core components that every wearable needed. It went on to become an overnight success on twitter, and people went crazy for the tiny module that could do so much. For designers that wanted to get straight to their application rather than spend months on a HDI board, they now had a validated wireless module, with FPGA acceleration and complete battery management.
+
+    Within less than a year, we now have customers worldwide building with our device, and we're supporting them closely to ensure they have everything they need to bring their world class products to market.
+
+    Silicon Witchery's vision is to become the best in wearable compute technology, enabling life changing wearable products, and accelerating humanity to a brighter future.
