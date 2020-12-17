@@ -6,7 +6,9 @@
   quote: >
     A startup designing smartwatches for front line workers.
   description: | # this will include new lines to allow paragraphs
-    At Turnpike I led product development of bespoke smartwatches for professional customers such as Microsoft and H&M. I faced a high pressure startup environment with composure, ensuring product development remained stable during times of business turbulence. When needed, I'd carefully adjusted work to match business needs, ensuring value was being created in the right places and at a high level of quality. This role taught me the lessons to understand different people, bring their opinions together and truly operate a business.
+    At Turnpike I led product development of bespoke smartwatches for customers including Microsoft and H&M. 
+    
+    I faced a high-pressure startup environment with composure, ensuring product development remained stable during times of business turbulence. When needed, I'd carefully adjusted work to match business needs, creating value in the right places at a high level of quality. This role taught me the lessons to understand different people, bring their opinions together, and operate the business as a team.
 
 - layout: left
   company: Silicon Labs Inc
@@ -16,7 +18,7 @@
   quote: >
     A global fabless technology company that designs and manufactures semiconductors.
   description: | # this will include new lines to allow paragraphs
-    At Silabs I worked on Bluetooth and Zigbee smart products for large customers such as Bosch and Dell. I experienced what it was like to work with design teams across the globe, as well as gained training in global certifications for <mark>EMC</mark> and <mark>wireless</mark>.
+    At Silabs I worked on Bluetooth and Zigbee smart products for large customers such as Bosch and Dell. I experienced what it was like to work with design teams across the globe, and gained extensive training for global EMC compliance.
 
 - layout: left
   company: Bristol Robotics Lab
@@ -24,6 +26,6 @@
   job_title: Research in Human Robot Interaction
   dates: 2013 - 2014
   quote: >
-    The largest academic centre for multi-disciplinary robotics research in the UK.
+    The UK's largest center for multi-disciplinary robotics research.
   description: | # this will include new lines to allow paragraphs
-    At BRL, I engineered position sensors for robotic arms that needed to function in the absence of gravity, under the strong radiation of space and in close proximity to nearby astronauts operating the machine. Heavy use of model based design was required to research brand new sensor fusion techniques, and ensure safe, reliable code.
+    At BRL, I engineered position sensors for robotic joints that needed to function in the absence of gravity and alongside the astronauts who would operate them. I made extensive use of model-based design to research brand new sensor fusion techniques to ensure safe and reliable code.

@@ -2,10 +2,10 @@
   name: Silicon Witchery
   link: https://www.siliconwitchery.com/
   quote: >
-    Building the smallest wearable computers for <strong>clothing</strong>, and <strong>implants</strong>.
+    <strong>Building the smallest wearable computers for clothing, and implantable devices.</strong>
   description: | # this will include new lines to allow paragraphs
-    Wanting to quickly prototype for different customers, I created the S1 module as an easy drop-in that contained core components that every wearable needed. It went on to become an overnight success on twitter, and people went crazy for the tiny module that could do so much. For designers that wanted to get straight to their application rather than spend months on a HDI board, they now had a validated wireless module, with FPGA acceleration and complete battery management.
-
-    Within less than a year, we now have customers worldwide building with our device, and we're supporting them closely to ensure they have everything they need to bring their world class products to market.
-
-    Silicon Witchery's vision is to become the best in wearable compute technology, enabling life changing wearable products, and accelerating humanity to a brighter future.
+    Wanting to prototype quickly for different clients, I created the S1 module as a platform containing all the core components to build a wearable. It went on to become an <a href="https://www.reddit.com/r/electronics/comments/it9ekh/hand_assembled_some_tiny_bluetooth_fpga_modules/" target="_blank">overnight success</a>, and people went crazy for the tiny module that could do so much. Built for designers that wanted to get straight to their application rather than spend months on an HDI board. They now had a validated wireless module with FPGA acceleration and complete battery management.
+    
+    Within less than a year, we now have customers worldwide building with our device. We're supporting them closely to ensure they have everything they need to bring their world-class products to market.
+    
+    Silicon Witchery's vision is to become the best in wearable computing technology, enabling life-changing wearable products, and accelerating humanity to a brighter future.

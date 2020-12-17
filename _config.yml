@@ -9,11 +9,11 @@ email: raj@siliconwitchery.com
 website: https://github.com/siliconwitch
 
 # Social links
+twitter_username: siliconwitch
 github_username:  siliconwitch
 linkedin_username: rajesh-nakarja-embedded
-twitter_username: siliconwitch
+facebook_username: rajeshnakarja
 # dribbble_username: jekyll
-# facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
 # pinterest_username: jekyll
@@ -25,9 +25,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Raj, and I'm Chief Engineer of Wearable Systems at Silicon Witchery. I've previously worked for companies big and small, focusing largely on <mark>consumer wearables</mark>, and <mark>IoT products</mark>.
 
-  Over the years I've been involved in end-to-end product development. From drawing specifications with customers on-site, to standing on the factory floor ensuring correct assembly. I've also worked closely with technology partners and EMC test facilities to ensure our products have been fully verified before launch. 
+  Over the years I've been involved in end-to-end product development. From drawing specifications with customers to the factory floor ensuring correct assembly. I've also worked closely with technology partners and EMC test facilities to ensure our products have been fully verified before launch.
 
-  At heart I'm an embedded systems engineer that loves to build hardware and write code. But my experience in end-to-end product development gives me the edge to see the bigger picture. I always strive to build the best for the business, and value good communication to keep things running smoothly.   
+  I'm an embedded systems engineer that loves to build hardware and write code. But my experience in end-to-end product development gives me the edge to see the bigger picture. I always strive to build the best for the business and value good communication to keep things running smoothly.
 
 # Projects Section
 # projects_title: Projects
@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in electronics, some of my other hobbies include:
    - STEM outreach and volunteering.
-   - Plot acting at live roleplay events, including the UK's largest, attracting 1900 visitors per event.
+   - Plot acting at live roleplay events, including the UK's largest, attracting over 1800 visitors per year.
    - Folk singing at maritime and renaissance fairs.
    - Athletic pole dancing.
 
